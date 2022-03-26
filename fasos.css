@@ -1,0 +1,505 @@
+body{
+    font-family: "Muli", sans-serif;
+}
+.header{
+    width:100%;
+    height:624px;
+}
+.image1{
+    width: 872px;
+    height: 569px;
+    
+}
+.left-head{
+    float:left;
+    width: 872px;
+    height: 500px;
+}
+.right-head{
+    float:left;
+    width:30%;
+    height:624px
+}
+.image2{
+    width: 639px;
+    height: 624px;
+    border-radius: 0px 0px 0px 35px;
+}
+.logo{
+    position:absolute;
+    top: 45px;
+    left: 113px;
+
+}
+.login{
+    color: rgb(255, 211, 68);
+    position: absolute;
+    top: 54px;
+    left: 667px;
+    font-size: 18px;
+    font-family: "Muli", sans-serif;
+    font-weight: bold;
+}
+
+.signup{
+    border-color: rgb(255, 211, 68);
+    color: rgb(255, 211, 68);
+    background-color: transparent;
+    position: absolute;
+    top: 69px;
+    left: 750px;
+    font-family: "Muli", sans-serif;
+    height: 35px;
+    width: 97px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.para1{
+    color: #fff;
+    font-weight: 800;
+    position: absolute;
+    left: 123px;
+    top: 159px;
+    font-size: 44px;
+    font-family: "Muli", sans-serif;
+}
+.conatiner{
+    width:100%;
+    
+}
+.search{
+    width: 549px;
+    position: absolute;
+    top: 295px;
+    left: 127px;
+    height: 58px;
+    border-radius: 5px 0 0 5px;
+    border-color: transparent;
+    font-family: "Muli", sans-serif;
+}
+.findfood{
+    background-color: rgb(255, 211, 68);
+    position: absolute;
+    top: 295px;
+    left: 817px;
+    height: 58px;
+    width: 112px;
+    border-color: transparent;
+    font-family: "Muli", sans-serif;
+    border-radius: 0 6px 6px 0;
+    padding-left: 29px;
+    font-weight: bold;
+    cursor:pointer;
+}
+.locate-me{
+    position: absolute;
+    top: 295px;
+    left: 718px;
+    height: 58px;
+    font-size: 14px;
+    width: 91px;
+    border-color: transparent;
+    font-family: "Muli", sans-serif;
+}
+.locate-icon{
+    position: absolute;
+    top: 295px;
+    left: 673px;
+    height: 64px;
+}
+.main-heading{
+    font-family: "Muli", sans-serif;
+    text-align: center;
+    color: rgb(51, 51, 51);
+    font-weight: 800;
+    margin-top: 65px;
+
+}
+.para2{
+    font-family: "Muli", sans-serif;
+    font-size: 17px;
+    color: rgb(126, 126, 126);
+    width: 100%;
+    white-space: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.main{
+    width:100%;
+    height: 1404px;
+    float:left;
+}
+.main-headingparent{
+    width:100%;
+    height:189px;
+    float:left;
+}
+.secondary-head{
+    width:100%;
+    float:left;
+    height:360px;
+    
+
+}
+.secondary-left{
+    float:left;
+    width:50%;
+    height:360px;
+    margin:0px;
+}
+.secondary-right{
+    width:50%;
+    height:360px;
+    float:left;
+
+}
+
+.icon2-1{
+    margin-left: 204px;
+    height: 61px;
+}
+    
+
+.p1{
+    
+    font-family: "Muli", sans-serif;
+    margin-left: 0px;
+
+}
+.p2{
+    
+    font-family: "Muli", sans-serif;
+    margin-left: 0px;
+    margin-top: 18px;
+    
+}
+.p3{
+    
+    font-family: "Muli", sans-serif;
+    margin-left: 0px;
+    margin-top: 30px;
+    
+}
+.icon2-2{
+    margin-left: 204px;
+    height: 62px;
+    
+}
+.icon2-3{
+
+    margin-left: 204px;
+    height: 62px;
+}
+.icons{
+    float:left;
+    width:280px;
+    height:360px;
+}
+.texts{
+    float:left;
+    width:380px;
+}
+.vedio1{
+  border-radius: 6px;
+}
+.secondary-footer{
+    background: rgb(86, 64, 153);
+    float:left;
+    height: 300px;
+    width: 100%;
+    
+}
+.bottom-box{
+    position: absolute;
+    top: 1127px;
+    left: 146px;
+    height: 109px;
+    width: 1191px;
+    background-color: rgb(107, 85, 205);
+    border-radius: 19px;
+    border-color: transparent;
+}
+.image4{
+    position: absolute;
+    top: 1162px;
+    left: 181px;
+    height: 43px;
+}
+.p4{
+    font-family: "Muli", sans-serif;
+    color: #fff;
+    font-weight: 600;
+    position: absolute;
+    top: 1150px;
+    left: 394px;
+
+}
+.p5{
+    font-family: "Muli", sans-serif;
+    color: #fff;
+    font-weight: 600;
+    position: absolute;
+    top: 1150px;
+    left: 625px;
+
+}
+.p6{
+    font-family: "Muli", sans-serif;
+    color: #fff;
+    font-weight: 600;
+    position: absolute;
+    top: 1149px;
+    left: 831px;
+}
+.p7{
+    font-family: "Muli", sans-serif;
+    color: #fff;
+    font-weight: 600;
+    position: absolute;
+    top: 1150px;
+    left: 1020px;
+
+}
+.know-more{
+    position: absolute;
+    top: 1154px;
+    left: 1193px;
+    height: 39px;
+    width: 101px;
+    font-family: "Muli", sans-serif;
+    font-weight: 600;
+    background-color: #fff;
+    border-color: transparent;
+    cursor:pointer;
+
+}
+.t1{
+    position: absolute;
+    top: 1133px;
+    left: 431px;
+}
+.t2{
+    position: absolute;
+    top: 1133px;
+    left: 659px;
+    
+}
+.t3{
+    position: absolute;
+    top: 1131px;
+    left: 853px;
+}
+
+.t4{
+    position: absolute;
+    top: 1132px;
+    left: 1042px;
+   
+
+}
+.l1{
+    position: absolute;
+    top: 1136px;
+    left: 337px;
+
+}
+.l2{
+    position: absolute;
+    top: 1136px;
+    left: 567px;
+    
+}
+.l3{
+    position: absolute;
+    top: 1136px;
+    left: 771px;
+}
+    
+
+.l4{
+    
+    position: absolute;
+    top: 1136px;
+    left: 958px;
+    
+}
+.p8{
+    text-align: center;
+    color: rgb(255, 211, 68);
+    font-family: "Muli", sans-serif;
+    font-weight: 400;
+    margin-top: 19px;
+}
+.pic1{
+    position: absolute;
+    top: 1311px;
+    left: 191px;;
+
+
+}
+.pic2{
+    position: absolute;
+    top: 1311px;
+    left: 442px;
+
+
+
+}
+.pic3{
+    position: absolute;
+    top: 1319px;
+    left: 717px;
+}
+
+
+.pic4{
+    position: absolute;
+    top: 1317px;
+    left: 961px;
+
+
+}
+.pic5{
+    position: absolute;
+    top: 1320px;
+    left: 1194px;
+    height: 38px;
+
+
+}
+.p9{
+    
+    color: #fff;
+    font-family: "Muli", sans-serif;
+    white-space: normal;
+    font-weight: 400;
+    position: absolute;
+    top: 1363px;
+    left: 152px;
+    font-size: 14px;
+    
+}
+.p10{
+    
+    color: #fff;
+    font-family: "Muli", sans-serif;
+    white-space: normal;
+    font-weight: 400;
+    position: absolute;
+    top: 1363px;
+    left: 392px;
+    font-size: 14px;
+    
+}
+.p11{
+    
+    color: #fff;
+    font-family: "Muli", sans-serif;
+    white-space: normal;
+    font-weight: 400;
+    position: absolute;
+    top: 1363px;
+    left: 672px;
+    font-size: 14px;
+    
+}
+.p12{
+    
+    color: #fff;
+    font-family: "Muli", sans-serif;
+    white-space: normal;
+    font-weight: 400;
+    position: absolute;
+    top: 1365px;
+    left: 928px;
+    font-size: 14px;
+    
+}
+.p13{
+    
+    color: #fff;
+    font-family: "Muli", sans-serif;
+    white-space: normal;
+    font-weight: 400;
+    position: absolute;
+    top: 1363px;
+    left: 1176px;
+    font-size: 14px;
+    
+}
+.footer{
+    width:100%;
+    float:left;
+    height: 523px;
+    background-color: rgb(25, 11, 69);
+    padding-top: 32px;
+}
+.f1{
+    width:15%;
+    height:500px;
+    float:left;
+    padding-left: 169px;
+
+}
+.f2{
+    width:15%;
+    height:500px;
+    float:left;
+    padding-left: 186px;
+    padding-top: 37px;
+    
+
+}
+.f3{
+    width:15%;
+    height:500px;
+    float:left;
+    padding-left: 113px;
+    padding-top: 30px;
+    
+
+}
+.p14{
+    color:rgb(196, 196, 196);
+    font-size: 18px;
+}
+.p15{
+    color:#fff;
+    line-height: 25px;
+
+    letter-spacing: 0.01em;
+}
+.p16{
+    color:#fff;
+    line-height: 25px;
+    cursor:pointer;
+
+}
+.p17{
+    color:#fff;
+    cursor:pointer;
+    margin-left: 16px;
+
+}
+.message-icon{
+    position: absolute;
+    top: 1945px;
+    left: 576px;
+    height: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
